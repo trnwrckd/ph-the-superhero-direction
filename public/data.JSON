@@ -1,0 +1,146 @@
+[
+    {
+        "id": "1",
+        "name": "Ross Geller",
+        "sitcom": "Friends",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 1000000
+    },
+    {
+        "id": "2",
+        "name": "Monica Geller",
+        "sitcom": "Friends",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 900000
+    },
+    {
+        "id": "3",
+        "name": "Chandler Bing",
+        "sitcom": "Friends",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 1100000
+    },
+    {
+        "id": "4",
+        "name": "Joey Tribbiani",
+        "sitcom": "Friends",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 700000
+    },
+    {
+        "id": "5",
+        "name": "Phoebe Buffay",
+        "sitcom": "Friends",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 1200000
+    },
+    {
+        "id": "6",
+        "name": "Rachel Greene",
+        "sitcom": "Friends",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 800000
+    },
+    {
+        "id": "7",
+        "name": "Frasier Crane",
+        "sitcom": "Frasier",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 1400000
+    },
+    {
+        "id": "8",
+        "name": "Niles Crane",
+        "sitcom": "Frasier",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 1200000
+    },
+    {
+        "id": "9",
+        "name": "Martin Crane",
+        "sitcom": "Friends",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 900000
+    },
+    {
+        "id": "10",
+        "name": "Roz Doyle",
+        "sitcom": "Frasier",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 1100000
+    },
+    {
+        "id": "11",
+        "name": "Daphne Moon",
+        "sitcom": "Frasier",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 700000
+    },
+    {
+        "id": "12",
+        "name": "Sam Malone",
+        "sitcom": "Cheers",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 900000
+    },
+    {
+        "id": "13",
+        "name": "Diane Chambers",
+        "sitcom": "Cheers",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 500000
+    },
+    {
+        "id": "14",
+        "name": "Carla Tortelli",
+        "sitcom": "Cheers",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 800000
+    },
+    {
+        "id": "15",
+        "name": "Norm Peterson",
+        "sitcom": "Cheers",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 950000
+    },
+    {
+        "id": "16",
+        "name": "Cliff Clavin",
+        "sitcom": "Cheers",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 860000
+    },
+    {
+        "id": "17",
+        "name": "Woody Boyd",
+        "sitcom": "Cheers",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 1160000
+    },
+    {
+        "id": "18",
+        "name": "Rebecca Howe",
+        "sitcom": "Cheers",
+        "age": "45",
+        "rating": "4.5",
+        "budget": 960000
+    }
+]
