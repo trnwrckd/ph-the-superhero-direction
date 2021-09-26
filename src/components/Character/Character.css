@@ -1,7 +1,6 @@
 .single-character{
-    /* border: 2px solid rgb(123, 128, 123); */
-    background-color: rgb(255, 255, 255);
-    box-shadow: 1px 1px 10px rgb(70, 70, 70);
+    background-color: rgb(189, 189, 189);
+    box-shadow: 1px 1px 5px rgb(70, 70, 70);
     padding: 17px 0;
     border-top-left-radius: 25%;
     border-top-right-radius: 25%;
@@ -9,6 +8,16 @@
     border-bottom-right-radius: 10%;
     position: relative;
     overflow: hidden;
+    transition: all .5s;
+}
+.single-character:hover{
+    transform: scale(.98);
+    background-color: rgb(165, 165, 165);
+    box-shadow: none;
+    cursor: default;
+}
+.single-character:hover .gold-star{
+    color: #5A7060;
 }
 .char-image{
     position: absolute;
@@ -24,14 +33,30 @@
     color: white;
     font-size: 20px;
     letter-spacing: 2px;
-    padding: 1px 0;
+    padding: 1.5px 0;
     padding-right: 50px;
     background-color: rgb(46, 46, 46);
 }
+.gold-star{
+    color: rgb(221, 149, 15);
+}
+.character-budget{
+    font-size: 24px;
+    color: #682068;
+    font-weight: bold;
+}
 .custom-btn{
-    padding: 5px 20px;
-    border-radius: 10px;
+    padding: 5px 30px;
+    border-radius: 15px;
     border: none;
-    background-color: blue;
+    background-color: #5A7060;
     color: white;
+    transition: all .5s;
+}
+
+.custom-btn:hover{
+    transform: rotate(-10deg);
+    background-color: #ffffff;
+    /* backdrop-filter: blur(2px); */
+    color: black;
 }

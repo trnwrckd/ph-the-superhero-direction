@@ -1,12 +1,27 @@
 .header{
     margin: auto;
-    color: white;
-    background-color: rgb(61, 70, 67);
+    color: black;
+    background-color: #dac492;
     padding: 10px 0;
     margin-bottom: 5px;
+    border-bottom: 4px solid rgb(99, 99, 99);
     border-bottom-left-radius: 5%;
     border-bottom-right-radius: 5%;
     animation: drop .8s ease-in;
+}
+.caption{
+    font-size: 1.5em;
+    color: #6C878C;
+    color: #5D508C;
+    text-shadow: -2px 0px 2px rgb(70, 70, 70);
+    letter-spacing: 1px;
+}
+.budget{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 1.25em;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
 }
 
 @keyframes drop {
