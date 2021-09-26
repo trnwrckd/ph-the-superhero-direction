@@ -7,15 +7,16 @@ const CharacterContainer = () => {
     const [characters, setCharacter] = useState([]);
     const [characterList, setCharacterList] = useState([]);
 
+    // load data
     useEffect(() => {
         fetch('./data.JSON').then(res => res.json()).then(data => setCharacter(data))
     }, [])
 
+    // pass eventhandler to child componenet
     const handleVote = (character) => {
         const newCharacterList = [...characterList, character];
         setCharacterList(newCharacterList);
     }
-    characterList.map(character => console.log(character.id));
     return (
         <div className="character-container">
             <div className="characters-grid">

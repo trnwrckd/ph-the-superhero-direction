@@ -4,10 +4,11 @@ import './Votes.css';
 const Votes = (props) => {
     let totalCost = 0;
 
+    // compute total cost
     for (const character of props.characterList) {
         totalCost += character.budget;
     }
-    // console.log(props.characterList);
+
     return (
         <div className="votes">
             <h2 className="border-bottom border-dark border-5 pb-2">Votes</h2>

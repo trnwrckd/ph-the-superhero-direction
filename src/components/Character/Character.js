@@ -5,7 +5,9 @@ import { faCartPlus } from '@fortawesome/free-solid-svg-icons';
 import Rating from 'react-rating';
 
 const Character = (props) => {
+    // destructuring 
     const { name, sitcom, age, rating, budget, image } = props.character;
+
     return (
         <div className="single-character">
             <div><img className="char-image" src={image} alt="" /></div>
