@@ -1,5 +1,19 @@
 .header{
-    background-color: aquamarine;
+    margin: auto;
+    color: white;
+    background-color: rgb(61, 70, 67);
     padding: 10px 0;
     margin-bottom: 5px;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    animation: drop .8s ease-in;
+}
+
+@keyframes drop {
+    0%{
+        margin-left: -150%;
+    }
+    100%{
+        margin-left: 0;
+    }
 }

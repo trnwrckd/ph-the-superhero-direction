@@ -1,0 +1,37 @@
+.single-character{
+    /* border: 2px solid rgb(123, 128, 123); */
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 10px rgb(70, 70, 70);
+    padding: 17px 0;
+    border-top-left-radius: 25%;
+    border-top-right-radius: 25%;
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius: 10%;
+    position: relative;
+    overflow: hidden;
+}
+.char-image{
+    position: absolute;
+    box-shadow: 8px 0px rgba(255, 255, 255, 0.5);
+    height: 180px;
+    width: 180px;
+    left: -5%;
+    top: -1%;
+    border-radius: 50%;
+}
+.sitcom-title{
+    text-align: right;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding: 1px 0;
+    padding-right: 50px;
+    background-color: rgb(46, 46, 46);
+}
+.custom-btn{
+    padding: 5px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: blue;
+    color: white;
+}

@@ -4,6 +4,7 @@
         "name": "Ross Geller",
         "sitcom": "Friends",
         "age": "45",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/David_Schwimmer_as_Ross_Geller.jpg",
         "rating": "4.5",
         "budget": 1000000
     },
@@ -12,6 +13,7 @@
         "name": "Monica Geller",
         "sitcom": "Friends",
         "age": "45",
+        "image": "http://pm1.narvii.com/7080/e95dff1da38b051096bf9eed02c80a379ba74f93r1-492-623v2_uhq.jpg",
         "rating": "4.5",
         "budget": 900000
     },
@@ -20,6 +22,7 @@
         "name": "Chandler Bing",
         "sitcom": "Friends",
         "age": "45",
+        "image": "http://pm1.narvii.com/7065/1166dd72995d429b3a78d1d6f52b939063874076r1-518-592v2_uhq.jpg",
         "rating": "4.5",
         "budget": 1100000
     },
@@ -28,6 +31,7 @@
         "name": "Joey Tribbiani",
         "sitcom": "Friends",
         "age": "45",
+        "image": "https://openpsychometrics.org/tests/characters/test-resources/pics/F/4.jpg",
         "rating": "4.5",
         "budget": 700000
     },
@@ -36,6 +40,7 @@
         "name": "Phoebe Buffay",
         "sitcom": "Friends",
         "age": "45",
+        "image": "http://images6.fanpop.com/image/photos/32200000/Phoebe-phoebe-buffay-32239231-200-200.jpg",
         "rating": "4.5",
         "budget": 1200000
     },
@@ -44,6 +49,7 @@
         "name": "Rachel Greene",
         "sitcom": "Friends",
         "age": "45",
+        "image": "https://i.pinimg.com/originals/fe/7c/6d/fe7c6dd4e70f1c48c899591e98627983.png",
         "rating": "4.5",
         "budget": 800000
     },
@@ -52,6 +58,7 @@
         "name": "Frasier Crane",
         "sitcom": "Frasier",
         "age": "45",
+        "image": "https://i.pinimg.com/originals/f1/24/f1/f124f1626e18d00986a618399b4bc0f8.jpg",
         "rating": "4.5",
         "budget": 1400000
     },
@@ -60,14 +67,16 @@
         "name": "Niles Crane",
         "sitcom": "Frasier",
         "age": "45",
+        "image": "http://images2.fanpop.com/image/photos/9300000/Niles-Crane-frasier-9341067-483-462.jpg",
         "rating": "4.5",
         "budget": 1200000
     },
     {
         "id": "9",
         "name": "Martin Crane",
-        "sitcom": "Friends",
+        "sitcom": "Frasier",
         "age": "45",
+        "image": "https://pyxis.nymag.com/v1/imgs/5e4/827/386921e7b86fed7d72da086f9a2560e08c-05-john-mahoney-frasier-2.rsquare.w700.jpg",
         "rating": "4.5",
         "budget": 900000
     },
@@ -76,6 +85,7 @@
         "name": "Roz Doyle",
         "sitcom": "Frasier",
         "age": "45",
+        "image": "http://images6.fanpop.com/image/photos/41400000/Roz-Doyle-frasier-roz-doyle-41488668-300-374.jpg",
         "rating": "4.5",
         "budget": 1100000
     },
@@ -84,6 +94,7 @@
         "name": "Daphne Moon",
         "sitcom": "Frasier",
         "age": "45",
+        "image": "https://www.sitcomsonline.com/photopost/data/517/Daphne_Picture1.jpg",
         "rating": "4.5",
         "budget": 700000
     },
@@ -93,6 +104,7 @@
         "sitcom": "Cheers",
         "age": "45",
         "rating": "4.5",
+        "image": "https://miro.medium.com/max/590/1*zMcA-vbDRPy3pCI4d2fiPg.jpeg",
         "budget": 900000
     },
     {
@@ -100,6 +112,7 @@
         "name": "Diane Chambers",
         "sitcom": "Cheers",
         "age": "45",
+        "image": "http://www.snakkle.com/wp-content/uploads/2012/09/shelley-long-cheers-tv-1985-photo-GC.jpg",
         "rating": "4.5",
         "budget": 500000
     },
@@ -108,6 +121,7 @@
         "name": "Carla Tortelli",
         "sitcom": "Cheers",
         "age": "45",
+        "image": "https://images.hobbydatabase.com/processed_uploads/subject_photo/subject_photo/image/30332/1504040940-23198-6676/Carla_20Tortelli_large.jpg",
         "rating": "4.5",
         "budget": 800000
     },
@@ -116,6 +130,7 @@
         "name": "Norm Peterson",
         "sitcom": "Cheers",
         "age": "45",
+        "image": "https://alchetron.com/cdn/norm-peterson-politician-22f6ebb6-7646-47ca-b005-a3d54a98dd7-resize-750.jpeg",
         "rating": "4.5",
         "budget": 950000
     },
@@ -124,6 +139,7 @@
         "name": "Cliff Clavin",
         "sitcom": "Cheers",
         "age": "45",
+        "image": "https://images.toofab.com/image/04/1by1/2020/08/18/0414d825fd78477a867a78b51927eb9c_xl.jpg",
         "rating": "4.5",
         "budget": 860000
     },
@@ -132,6 +148,7 @@
         "name": "Woody Boyd",
         "sitcom": "Cheers",
         "age": "45",
+        "image": "https://media.gettyimages.com/photos/season-7-pictured-woody-harrelson-as-woody-boyd-photo-by-nbcu-photo-picture-id141327072",
         "rating": "4.5",
         "budget": 1160000
     },
@@ -140,6 +157,7 @@
         "name": "Rebecca Howe",
         "sitcom": "Cheers",
         "age": "45",
+        "image": "https://i.pinimg.com/474x/22/a5/ed/22a5ed44752ede0532bc997f3bdefd71.jpg",
         "rating": "4.5",
         "budget": 960000
     }

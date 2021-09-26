@@ -3,18 +3,18 @@ import './Votes.css';
 
 const Votes = (props) => {
     let totalCost = 0;
-    console.log(props.characterList);
+
     for (const character of props.characterList) {
         totalCost += character.budget;
     }
-    console.log(totalCost);
+    // console.log(props.characterList);
     return (
-        <div>
-            <h2>Votes</h2>
+        <div className="votes">
+            <h2 className="border-bottom border-dark border-5 pb-2">Votes</h2>
             <p>Votes Given : {props.characterList.length}</p>
             <p>Total Cost: ${totalCost}</p>
             {
-                props.characterList.map(character => <h5>{character.name}</h5>)
+                props.characterList.map(character => <h5 key={character.id}>{character.name}</h5>)
             }
         </div>
     );

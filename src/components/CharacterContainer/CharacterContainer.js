@@ -15,14 +15,17 @@ const CharacterContainer = () => {
         const newCharacterList = [...characterList, character];
         setCharacterList(newCharacterList);
     }
+    characterList.map(character => console.log(character.id));
     return (
         <div className="character-container">
-            <div className="row row-cols-3 g-5">
+            <div className="characters-grid">
                 {
                     characters.map(character => <Character key={character.id} character={character} handleVote={handleVote}></Character>)
                 }
             </div>
-            <Votes characterList={characterList}></Votes>
+            <div>
+                <Votes characterList={characterList}></Votes>
+            </div>
         </div>
     );
 };
